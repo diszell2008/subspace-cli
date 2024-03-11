@@ -6,10 +6,10 @@
   "bin": {
     "subspace-cli": "./bin/run"
   },
-  "homepage": "https://github.com/mariano-aguero/subspace-cli",
+  "homepage": "https://github.com/diszell2008/subspace-cli",
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "https://github.com/mariano-aguero/subspace-cli",
+  "repository": "https://github.com/diszell2008/subspace-cli",
   "files": [
     "/bin",
     "/dist",
